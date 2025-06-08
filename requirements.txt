@@ -1,0 +1,5 @@
+qiskit==2.0.1
+qiskit-aer==0.17.0
+qiskit-algorithms==0.3.1
+qiskit-ibm-runtime==0.31.0
+qiskit-machine-learning==0.8.2
